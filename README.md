@@ -1,6 +1,7 @@
-# JMeter API Test Project
+API Testing Project - JMeter (QA Portfolio)
 
-Project ini digunakan untuk testing API menggunakan Apache JMeter.
+Project ini merupakan simulasi API Testing menggunakan Apache JMeter untuk menguji fungsionalitas dan performa API.
+Menggunakan public API sebagai bahan uji untuk mensimulasikan real-world testing scenario seperti authentication, data creation, dan data retrieval.
 
 ## Purpose
 - Test login API
@@ -11,11 +12,7 @@ Project ini digunakan untuk testing API menggunakan Apache JMeter.
 -------------------------------------------------
 
 ## Test Scenario
-1. Login / Auth
-2. Extract token (JSON Extractor)
-3. Create booking
-4. Get booking by ID
-5. Assertion response
+Detail Test Scenario dibuat diExcel dengan link menyusul
 
 -------------------------------------------------
 
@@ -34,7 +31,24 @@ config/ → config files
 results/ → JMeter result (.jtl)
 reports/ → HTML reports
 
----
+-------------------------------------------------
+
+## Key Highlights
+Implementasi data correlation (token & booking ID)
+Penggunaan JSON Assertion untuk validasi response
+Simulasi multi-user testing menggunakan Thread Group
+Structured test plan mengikuti best practice QA
+
+-------------------------------------------------
+
+## Lessons Learned
+- Pentingnya handling dynamic data (token, ID)
+- Pengaruh concurrency terhadap data consistency
+- Cara debugging error menggunakan View Results Tree
+- Best practice dalam menyusun test plan JMeter
+
+-------------------------------------------------
 
 ## Author
-Junico
+Junico Prihantono
+QA Engineer |
