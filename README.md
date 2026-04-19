@@ -19,14 +19,14 @@ Project ini digunakan untuk testing API menggunakan Apache JMeter.
 
 -------------------------------------------------
 
-## 🛠 Tools
+## Tools
 - Apache JMeter
 - API: ReqRes / Restful Booker
 - Git for version control
 
 -------------------------------------------------
 
-## 📁 Project Structure
+## Project Structure
 
 tests/ → JMeter test plan (.jmx)
 data/ → CSV test data
@@ -36,5 +36,5 @@ reports/ → HTML reports
 
 ---
 
-## 👨‍💻 Author
+## Author
 Junico
