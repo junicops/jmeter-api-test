@@ -1,0 +1,10 @@
+# JMeter temp files
+*.log
+*.tmp
+
+# Results
+results/*.jtl
+
+# OS files
+.DS_Store
+Thumbs.db
