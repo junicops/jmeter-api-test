@@ -12,7 +12,7 @@ Menggunakan public API sebagai bahan uji untuk mensimulasikan real-world testing
 -------------------------------------------------
 
 ## Test Scenario
-Detail Test Scenario dibuat diExcel dengan link menyusul
+Detail Test Scenario beserta dengan evidance hasil pengujian dibuat di Excel dengan link menyusul
 
 -------------------------------------------------
 
