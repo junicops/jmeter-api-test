@@ -1,4 +1,4 @@
-API Testing Project - JMeter (QA Portfolio)
+## API Testing Project - JMeter (QA Portfolio)
 
 Project ini merupakan simulasi API Testing menggunakan Apache JMeter untuk menguji fungsionalitas dan performa API.
 Menggunakan public API sebagai bahan uji untuk mensimulasikan real-world testing scenario seperti authentication, data creation, dan data retrieval.
